@@ -43,6 +43,7 @@ namespace HomeWork5
             Dictionary<int, string> dict = new Dictionary<int, string>()
             {
             //Part 2.2 - Add to Dictionary from Console 7 pairs (ID, Name) of some persons
+
                 { 1, "Tom"},
                 { 2, "Bob"},
                 { 3, "Tim"},
